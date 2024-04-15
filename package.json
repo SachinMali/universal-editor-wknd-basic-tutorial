@@ -1,7 +1,7 @@
 {
   "name": "aem-tutorial-team-app",
   "version": "0.1.0",
-  "homepage": "https://SachinMali.github.io",
+  "homepage": "https://SachinMali.github.io/universal-editor-wknd-basic-tutorial",
   "private": true,
   "dependencies": {
     "@adobe/aem-headless-client-js": "^3.3.0",
