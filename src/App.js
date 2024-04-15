@@ -19,13 +19,13 @@ function App() {
     <Router>
       <div className="App">
         <header>
-          <Link to={"/"}>
+          <Link to={"/universal-editor-wknd-basic-tutorial"}>
             <img src={logo} className="logo" alt="WKND Logo" />
           </Link>
           <hr />
         </header>
         <Routes>
-          <Route path="/" element={<Home />} />
+          <Route path="/universal-editor-wknd-basic-tutorial" element={<Home />} />
           <Route path="/person/:fullName" element={<Person />} />
         </Routes>
       </div>
