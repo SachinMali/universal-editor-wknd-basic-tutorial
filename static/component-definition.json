@@ -1,0 +1,48 @@
+{
+  "groups": [
+    {
+      "title": "Content Fragments",
+      "id": "content-fragments",
+      "components": [
+        {
+          "title": "Team",
+          "id": "team",
+          "plugins": {
+            "aem": {
+              "cf": {
+                "name": "team",
+                "cfModel": "/conf/my-project/settings/dam/cfm/models/team",
+                "cfFolder": "/content/dam/my-project/en",
+                "title": "Team",
+                "template": {
+                  "title": "New Team",
+                  "slug": "new-team",
+                  "image": "/content/dam/securbank/services/default-service-illustration.jpg"
+                }
+              }
+            }
+          }
+        },
+        {
+          "title": "Person",
+          "id": "person",
+          "plugins": {
+            "aem": {
+              "cf": {
+                "name": "person",
+                "cfModel": "/conf/my-project/settings/dam/cfm/models/person",
+                "cfFolder": "/content/dam/my-project/en",
+                "title": "person",
+                "template": {
+                  "title": "New Person",
+                  "slug": "new-person",
+                  "icon": "/content/dam/securbank/services/default-service-illustration.jpg"
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
