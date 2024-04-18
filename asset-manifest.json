@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/universal-editor-wknd-basic-tutorial/static/css/main.7ebfd380.css",
-    "main.js": "/universal-editor-wknd-basic-tutorial/static/js/main.14b949bb.js",
+    "main.js": "/universal-editor-wknd-basic-tutorial/static/js/main.e17c44b6.js",
     "index.html": "/universal-editor-wknd-basic-tutorial/index.html",
     "static/media/icon-loading.svg": "/universal-editor-wknd-basic-tutorial/static/media/icon-loading.2c27a19f4a355cdd8f6bc61fe4ef2eda.svg",
     "static/media/wknd-icon.svg": "/universal-editor-wknd-basic-tutorial/static/media/wknd-icon.9bfc02e724be71c5557565f171ea7b84.svg",
     "main.7ebfd380.css.map": "/universal-editor-wknd-basic-tutorial/static/css/main.7ebfd380.css.map",
-    "main.14b949bb.js.map": "/universal-editor-wknd-basic-tutorial/static/js/main.14b949bb.js.map"
+    "main.e17c44b6.js.map": "/universal-editor-wknd-basic-tutorial/static/js/main.e17c44b6.js.map"
   },
   "entrypoints": [
     "static/css/main.7ebfd380.css",
-    "static/js/main.14b949bb.js"
+    "static/js/main.e17c44b6.js"
   ]
 }
